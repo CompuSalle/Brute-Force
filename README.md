@@ -1,11 +1,13 @@
-# Brute-Force
-Password Brute Forcer Using Python
+# Password Brute Forcer Using Python
+# Ethical Use Only! 
 
-# @Copyright
-# Created by :
-# Waseem Adel Alaa-Iddin
-# Can be used in your project. A name maintaining will be nice.
-# >> >> >> Ethical Use Only! << << << 
+
+@Copyright
+Created by : Waseem Adel Alaa-Iddin
+Can be used in your project. A name maintaining will be nice.
+
+
+
 
 
 Please use python3. 
