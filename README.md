@@ -21,7 +21,7 @@ Refer to [This Project](https://github.com/WassemAdil/Password-List-Generator-Cr
 
 -----------------------------------------------
 
-> Program Explnation 
+> Program Explanation
 
 The user shall choose to preside with section ‘a’; therefore, the user will enter a password
 combination of only numbers/lowercase or both. If the user enters more than six inputs or enters
