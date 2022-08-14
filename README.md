@@ -19,6 +19,26 @@ Note:
 <b>password list generator/cracker</b> can crack passwords using a password list, if that is what you are searching for.
 Refer to [This Project](https://github.com/WassemAdil/Password-List-Generator-Cracking).
 
+-----------------------------------------------
+
+> Program Explnation 
+
+The user shall choose to preside with section ‘a’; therefore, the user will enter a password
+combination of only numbers/lowercase or both. If the user enters more than six inputs or enters
+invalid inputs, errors will be handled professionally to explain what is wrong with the user.
+
+
+Algorithm:
+The user will insert a pass.
+
+A (for loop) will start in the range of 1 – 6 to generate the brute pass list from (0 or z) to (999999
+or zzzzzz). Any capital letter will automatically be converted to lowercase.
+
+
+The user password should be found as time passes. The brute speed depends on the computer
+aspects.
+
+
 
 
 *Have Fun !*
