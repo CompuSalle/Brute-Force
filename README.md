@@ -5,7 +5,7 @@
 @Copyright - Wassem Alaa-Iddin
 
 Can be used in your project. 
-Name maintaining would be nice. <3
+Name maintaining would be nice. 
 
 
 Please use python3. 
