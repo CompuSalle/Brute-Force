@@ -2,11 +2,10 @@
 # Ethical Use Only! 
 
 
-@Copyright
-Created by : 
-Waseem Adel Alaa-Iddin
+@Copyright - Wassem Alaa-Iddin
+
 Can be used in your project. 
-A name maintaining will be nice.
+Name maintaining would be nice. <3
 --------------------------------
 
 
