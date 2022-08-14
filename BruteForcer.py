@@ -53,26 +53,6 @@ def guess_password(real):
             print('[+] Error')
             break
 
-def BCH_password(real):
-    pass_gen = string.digits 
-    attempts = 0
-    start_time = time.time()
-    print('[+] This Will Take Time ')
-    #start a loop that has a range of 1 to 7.
-    for password_length in range(10, 12):   
-        #if show attempts 
-        for guess in itertools.product(pass_gen, repeat=password_length):
-                attempts += 1
-                guess = ''.join(guess)
-                #if found the pass
-                if guess == real:
-                    print("\n\nThe BCH Code has been found in ---- %s seconds ----" % (time.time() - start_time)) 
-                    return '\BCH Code {}. found in {} guesses.'.format(guess, attempts)
-                    
-        #if any error          
-        else:
-            print('[+] Error')
-            break
 
 while Run_The_Server == 1:
     WhichTask = input("[+] Do You Want To Start Task 3 [A] or [B] ? :  ").lower() #to make inputs lowercase
