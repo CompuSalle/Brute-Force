@@ -2,8 +2,10 @@
 ### Ethical Use Only! 
 
 
-> @Copyright - Wassem Alaa-Iddin
-> | Can be used in your project - Name maintaining would be nice. 
+#### @Copyright - Wassem Alaa-Iddin
+#### Can be used in your project - Name maintaining would be nice. 
+
+-----------
 
 
 **Please use python3.**
