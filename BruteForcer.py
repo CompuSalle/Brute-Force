@@ -55,8 +55,8 @@ def guess_password(real):
 
 
 while Run_The_Server == 1:
-    WhichTask = input("[+] Do You Want To Start Task 3 [A] or [B] ? :  ").lower() #to make inputs lowercase
-    #to start task 3.A
+    WhichTask = input("[+] Do You Want To Start [A] or [B] ? :  ").lower() #to make inputs lowercase
+    #to start task A
     if WhichTask == 'a': 
         Run_The_Server = 0
         while User_Password != "StopTheProgramNow!!!":
@@ -98,7 +98,7 @@ while Run_The_Server == 1:
                 print("________")
                 break
 
-    #to start task 3.B
+    #to start task B
     elif WhichTask == 'b':
         Run_The_Server = 0
         while User_Password != "StopTheProgramNow!!!":
