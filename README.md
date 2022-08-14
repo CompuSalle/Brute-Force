@@ -3,7 +3,7 @@
 
 
 #### @Copyright - Wassem Alaa-Iddin
-#### Can be used in your project - Name maintaining would be nice. 
+#### Free To Use - Name Maintaining Would Be Nice. 
 
 -----------
 
