@@ -17,7 +17,7 @@ Note:
 
 
 <b>password list generator/cracker</b> can crack passwords using a password list, if that is what you are searching for.
-Refer to [This Project](https://github.com/WassemAdil/Password-List-Generator-Cracking).
+Refer to [This Project](https://github.com/CompuSalle/Password-List-Generator-Cracking).
 
 -----------------------------------------------
 
