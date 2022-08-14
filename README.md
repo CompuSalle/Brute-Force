@@ -3,15 +3,14 @@
 
 
 @Copyright
-Created by : Waseem Adel Alaa-Iddin
-Can be used in your project. A name maintaining will be nice.
-
-
-
+Created by : 
+Waseem Adel Alaa-Iddin
+Can be used in your project. 
+A name maintaining will be nice.
+--------------------------------
 
 
 Please use python3. 
-
 
 Note:
 1) This program can brute force passwords with a length of 1 to 7, however, it can be modified to crack passwords with a longer length.
