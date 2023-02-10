@@ -3,7 +3,7 @@
 
 
 #### @Copyright - Wassem Alaa-Iddin
-#### Free To Use - Name Maintaining Would Be Nice. 
+#### Free To Use - Name mentioning Would Be Nice. 
 
 -----------
 
