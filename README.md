@@ -2,8 +2,8 @@
 ### Ethical Use Only! 
 
 
-#### @Copyright - Wassem Alaa-Iddin
-#### Free To Use - Name mentioning Would Be Nice. 
+#### @Copyright - W.A Compusalle
+#### Free To Use - Name Mentioning Would Be Nice. 
 
 -----------
 
